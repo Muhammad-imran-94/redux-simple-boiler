@@ -14,6 +14,12 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+
+
+
+
+
+
 // store --> Global store
 
 // Actions --> describe what you want to do (actions for what u want to do)
